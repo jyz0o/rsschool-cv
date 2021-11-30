@@ -46,6 +46,6 @@ Student , who decided to study the Frontend in RS School. I started learn JavaSc
 ## __Language__
 
 - __English__  -  Pre Intermediate (A2).
-- __Russia__ - Native speaker.
+- __Russian__ - Native speaker.
 - __Belarusian__ - Native speaker.
 
