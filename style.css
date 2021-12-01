@@ -17,6 +17,9 @@ body {
     
 }
 
+/*---------- HEADER ----------- */
+
+
 header {
     padding: 50px;
   }
@@ -53,3 +56,25 @@ header {
     font-size: 15px;
   }
 
+
+
+
+/*---------- FOOTER ----------- */
+
+  footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: 12px;
+  }
+  
+  footer a {
+    text-decoration: none;
+  }
+  
+  
+.my-github {
+    display: flex;
+    align-items: center;
+  }
