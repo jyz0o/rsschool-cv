@@ -104,7 +104,6 @@ main {
 /* ---------- CONTACTS --------- */
 
 .contacts {
-    position: absolute;
     width: 395px;
     height: 130px;
     border-radius: 25px;
@@ -129,10 +128,33 @@ main {
   
 
 /* ---------- ABOUT ME --------- */
+.about{
+  margin-top: 21px;
+  width: 395px;
+  height: 110px;
+  border-radius: 25px;
+  background: rgba(54, 45, 28, 0.36);
+  overflow:hidden;
+  font-size:10px;
+}
+
+.aboutme{
+  padding-left: 21px;
+}
 
 /* ---------- LANGUAGE ------------ */
 
 .language-name {
-    font-weight: 700;
+    
     text-transform: uppercase;
   }
+
+.language{
+  margin-top: 21px;
+  width: 395px;
+  height: 120px;
+  border-radius: 25px;
+  background: rgba(54, 45, 28, 0.36);
+  overflow:hidden;
+  font-size:10px;
+}
